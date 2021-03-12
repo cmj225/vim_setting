@@ -1,9 +1,8 @@
-" GUI
 if has("syntax")
 	syntax on " 형식별 구문 강조 표시
 endif
 
-colorscheme molokai " 테마 적용.
+colorscheme jellybeans " 테마 적용.
 
 set nu " 라인 넘버 표시. (= nu)
 set showcmd " 사용자가 입력한 명령어 표시
